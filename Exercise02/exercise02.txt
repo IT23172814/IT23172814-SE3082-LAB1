@@ -1,1 +1,3 @@
+How many logical cores are there?
 
+I used a t3.small instance.So number of logical CPU's were 2.
